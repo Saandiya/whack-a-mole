@@ -1,5 +1,6 @@
 # Whack-a-Mole
 Whack-A-Mole Project for ECE362
+Teammates: Vatsal, Saandiya, Shrikar
 
 Project Description: 
 1. Ability to display current score on 7-segment display using SPI and save top 3 high scores on OLED display using I2C EEPROM.
